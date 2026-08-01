@@ -155,7 +155,12 @@ Install all dependencies
 pip install opencv-python opencv-contrib-python customtkinter pillow numpy
 ```
 ## How to use
-Once all dependencies are installed, launch the application:
+Before running the application you need to create empty folder/directories named as:
+- Attendence (Here it stores attendence report in .csv format)
+- Dataset (here it stores the captured image while registration)
+- Trainer (Code trains the captured data and stores the trained file in this folder)
+  
+Once everything is done, launch the application:
 
 ```bash
 python gui.py
@@ -188,14 +193,13 @@ The application provides the following features:
 
 **Ammar Shaikh**
 Passionate about: 
+- Computer Vision
+- Generative AI
 - Robotics
 - Artificial Intelligence
-- Computer Vision
-- Automation
-- Generative AI
 ---
 
 ## Support
 Contributions are welcome!
 Feel free to fork this repository and submit a Pull Request.
-If you found this project useful, consider giving it a ⭐ on GitHub.
+<br>If you found this project useful, consider giving it a ⭐ on GitHub.
