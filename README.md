@@ -189,7 +189,7 @@ The application provides the following features:
 ---
 
 ---
-# 👨‍💻 Developer
+## Developer
 
 **Ammar Shaikh**
 Passionate about: 
