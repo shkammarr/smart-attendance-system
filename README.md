@@ -141,7 +141,7 @@ pip install customtkinter
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/smart-attendance-system.git
+git clone https://github.com/shkammarr/smart-attendance-system.git
 ```
 
 Move into the project
@@ -188,18 +188,7 @@ The application provides the following features:
 
 ---
 
----
-## Developer
-
-**Ammar Shaikh**
-Passionate about: 
-- Computer Vision
-- Generative AI
-- Robotics
-- Artificial Intelligence
----
-
 ## Support
-Contributions are welcome!
+Contributions are welcome! <br>
 Feel free to fork this repository and submit a Pull Request.
 <br>If you found this project useful, consider giving it a ⭐ on GitHub.
